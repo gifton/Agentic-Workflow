@@ -7,6 +7,7 @@
 - **[Examples Gallery](examples-gallery.md)** - Real-world command examples
 - **[Basic Example](example-basic.md)** - Simple URL shortener
 - **[Enhanced Example](example-enhanced.md)** - ML pipeline with features
+- **[Monitoring Example](example-monitoring.md)** - Web API with full observability
 
 ## What is Agentic Unified?
 
@@ -230,6 +231,15 @@ Adds: Save state after each major step, ability to revert to any checkpoint, rec
 \"agentic workflow with metrics and monitoring\"
 ```
 Adds: Performance measurements, quality metrics tracking, dashboard setup, alert definitions
+
+**How Monitoring Transforms the Workflow:**
+- Adds monitoring infrastructure setup phase
+- Instruments every implementation step
+- Includes load testing with metric validation
+- Creates dashboards and alert runbooks
+- Adds operational readiness checks
+
+See [Monitoring Example](example-monitoring.md) for complete details.
 
 #### Quality Features
 ```

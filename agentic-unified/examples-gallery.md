@@ -99,6 +99,25 @@ using React optimized for performance
 - Frontend optimization focus
 - Monitoring setup included
 
+## 📡 Monitoring & Observability
+
+### Production API with Full Monitoring
+```
+agentic workflow for web API with monitoring and metrics 
+optimized for reliability
+```
+
+**Workflow adaptations:**
+- Monitoring infrastructure setup first
+- Instrumentation in every component
+- Structured logging throughout
+- Dashboard creation phase
+- Alert rules and runbooks
+- Load testing with metrics
+- Operational readiness review
+
+*See [Complete Monitoring Example](example-monitoring.md)*
+
 ### ETL Pipeline
 ```
 agentic workflow for data pipeline with checkpoints and metrics 

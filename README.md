@@ -70,7 +70,7 @@ See `agentic-unified/` for documentation, examples, and quick reference.
 | **Event System** | On-demand | ❌ | Full pub/sub | ❌ | ❌ | ❌ |
 | **Agent Spawning** | Natural language | Static 3 agents | Dynamic | Static | Single flow | Static |
 | **Recovery** | Progressive | Progress tracking | Time-travel debug | ❌ | Simple | Model recovery |
-| **Monitoring** | Adaptable | File-based | Real-time dashboard | ❌ | Visual progress | ML metrics |
+| **Monitoring** | ✅ Full implementation | File-based | Real-time dashboard | ❌ | Visual progress | ML metrics |
 
 ### Complexity vs Features
 
