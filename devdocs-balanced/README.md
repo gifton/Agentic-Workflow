@@ -1,5 +1,11 @@
 # Balanced Agentic Workflow System
 
+⚠️ **STATUS: CONCEPTUAL DESIGN - Not Yet Implemented** ⚠️
+
+This is a design document for a future implementation. For a working solution with similar balance, please use **devdocs-standard** instead.
+
+---
+
 A practical middle-ground implementation that provides multi-dimensional assessment without overwhelming complexity.
 
 ## Philosophy
