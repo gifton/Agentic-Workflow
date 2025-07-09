@@ -13,7 +13,17 @@ Agentic Workflow is a powerful framework for breaking down complex software deve
 ## 🎯 Which Implementation Should I Use?
 
 ### 🆕 Recommended: Agentic Unified
-**New in 2024!** One workflow that adapts to your needs. Start simple, add features through natural language. See `agentic-unified/` for the future of Agentic Workflow.
+**The Future of Agentic Workflow!** One intelligent workflow that adapts to your needs through natural language.
+
+```bash
+# Examples of the new natural language system:
+"agentic workflow express"                              # Ship in 2 hours
+"agentic workflow for web API with testing"             # Full test suite
+"agentic workflow for hackathon optimized for speed"    # Fast iteration
+"agentic workflow for production using microservices"   # Enterprise ready
+```
+
+See `agentic-unified/` for documentation, examples, and quick reference.
 
 ### Classic Implementations
 ```
