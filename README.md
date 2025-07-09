@@ -67,16 +67,27 @@ Agentic Workflow is a powerful framework for breaking down complex software deve
 ```
 Features
    ↑
-   │ Advanced ●━━━━━━━━━━━┓ (Everything + kitchen sink)
-   │                      ┃
-   │ Standard ●━━━━━┓     ┃ (Sweet spot for most)
-   │                ┃     ┃
-   │ Zen-Python ●━━┓┃     ┃ (ML specialized)
-   │               ┃┃     ┃
-   │ Balanced ●    ┃┃     ┃ (Concept only)
-   │               ┃┃     ┃
-   │ Zen ●─────────┛┃     ┃ (Minimum viable)
-   └────────────────┛─────┛→ Complexity
+   │
+   │    Advanced ●──────────────────────────┐
+   │    (Everything + kitchen sink)         │
+   │                                        │
+   │                 Standard ●─────┐       │
+   │                 (Sweet spot)   │       │
+   │                                │       │
+   │         Unified ◆              │       │
+   │         (Adaptive)             │       │
+   │                                │       │
+   │    Zen-Python ●                │       │
+   │    (ML specific)               │       │
+   │                                │       │
+   │    Balanced ○                  │       │
+   │    (Concept)                   │       │
+   │                                │       │
+   │    Zen ●                       │       │
+   │    (Minimal)                   │       │
+   │                                │       │
+   └────────────────────────────────┴───────┴──→ Complexity
+        Low                     Medium    High
 ```
 
 ## 🌟 Implementation Profiles
