@@ -1,53 +1,53 @@
-# Agentic Unified - Quick Reference Card
+# Agentic Natural - Quick Reference Card
 
 ## Basic Syntax
 ```
-agentic workflow [for ...] [with ...] [using ...] [in ...] [optimized for ...] [by ...]
+agentic natural [for ...] [with ...] [using ...] [in ...] [optimized for ...] [by ...]
 ```
 
 ## 🚀 Presets (80% of use cases)
-- `agentic workflow express` - Ship in <2 hours
-- `agentic workflow standard` - Balanced approach (default)
-- `agentic workflow professional` - Production-ready
-- `agentic workflow enterprise` - Full compliance
-- `agentic workflow research` - Heavy exploration
+- `agentic natural express` - Ship in <2 hours
+- `agentic natural standard` - Balanced approach (default)
+- `agentic natural professional` - Production-ready
+- `agentic natural enterprise` - Full compliance
+- `agentic natural research` - Heavy exploration
 
 ## 🎯 Common Combinations
 
 ### Web Development
 ```bash
 # Quick API
-agentic workflow for web API express
+agentic natural for web API express
 
 # Production API  
-agentic workflow for web API with monitoring and testing professional
+agentic natural for web API with monitoring and testing professional
 
 # Microservice
-agentic workflow for microservice using DDD with checkpoints
+agentic natural for microservice using DDD with checkpoints
 ```
 
 ### Data & ML
 ```bash
 # Data Pipeline
-agentic workflow for data pipeline with monitoring optimized for reliability
+agentic natural for data pipeline with monitoring optimized for reliability
 
 # ML Model
-agentic workflow for ML model with metrics using Python
+agentic natural for ML model with metrics using Python
 
 # Analytics Dashboard
-agentic workflow for dashboard with visual progress in 1 day
+agentic natural for dashboard with visual progress in 1 day
 ```
 
 ### Time-Boxed Projects
 ```bash
 # Hackathon (4 hours)
-agentic workflow for prototype in 4 hours optimized for speed
+agentic natural for prototype in 4 hours optimized for speed
 
 # Daily Sprint
-agentic workflow for feature in 1 day by pair programming
+agentic natural for feature in 1 day by pair programming
 
 # Weekly Iteration  
-agentic workflow for MVP in 1 week with daily checkpoints
+agentic natural for MVP in 1 week with daily checkpoints
 ```
 
 ## 📋 Modifier Cheat Sheet
@@ -84,7 +84,7 @@ These commands automatically adapt:
 
 Not sure? Just say:
 ```
-agentic workflow
+agentic natural
 ```
 The AI will guide you through setup.
 

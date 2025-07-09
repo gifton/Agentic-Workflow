@@ -1,4 +1,4 @@
-# Agentic Workflow
+# Agentic Natural Workflow
 
 ## Task: [What we're building]
 

@@ -1,17 +1,18 @@
-# Agentic Unified - The One Workflow to Rule Them All
+# Agentic Natural - The One Workflow to Rule Them All
 
 > One simple workflow that adapts to any project size or complexity.
 
 ## 📚 Documentation
+- **[Natural Commands](natural-commands.md)** - Complete command reference
 - **[Quick Reference Card](quick-reference.md)** - One-page cheat sheet
 - **[Examples Gallery](examples-gallery.md)** - Real-world command examples
 - **[Basic Example](example-basic.md)** - Simple URL shortener
 - **[Enhanced Example](example-enhanced.md)** - ML pipeline with features
 - **[Monitoring Example](example-monitoring.md)** - Web API with full observability
 
-## What is Agentic Unified?
+## What is Agentic Natural?
 
-Agentic Unified is the next evolution of the Agentic Workflow system. Instead of choosing between multiple implementations, you get **one smart workflow** that scales naturally with your needs.
+Agentic Natural is the next evolution of the Agentic Workflow system. Instead of choosing between multiple implementations, you get **one smart workflow** that scales naturally with your needs through natural language.
 
 ## Core Philosophy
 
@@ -42,14 +43,14 @@ The workflow intelligently modifies itself based on your command:
 
 ### 1. Copy the Template
 ```bash
-cp agentic-unified/workflow.md your-project/
+cp agentic-natural/workflow.md your-project/
 ```
 
 ### 2. Fill It Out
 Replace the placeholders with your actual task details.
 
 ### 3. Use It
-Tell your AI assistant: "Follow the agentic workflow in workflow.md"
+Tell your AI assistant: "Follow the agentic natural in workflow.md"
 
 That's it! No configuration files, no complex setup.
 
@@ -66,7 +67,7 @@ Every project follows the same simple pattern:
 
 ### Quick Reference
 ```
-agentic workflow
+agentic natural
   [for {project-type}]     # What you're building
   [with {features}]        # Capabilities needed  
   [using {approach}]       # Methodology or tech
@@ -76,11 +77,11 @@ agentic workflow
 ```
 
 ### Common Presets
-- `agentic workflow express` - Ship in under 2 hours
-- `agentic workflow standard` - Balanced quality/speed (default)
-- `agentic workflow professional` - Production-ready with all checks
-- `agentic workflow enterprise` - Full compliance & documentation
-- `agentic workflow research` - Heavy exploration & experimentation
+- `agentic natural express` - Ship in under 2 hours
+- `agentic natural standard` - Balanced quality/speed (default)
+- `agentic natural professional` - Production-ready with all checks
+- `agentic natural enterprise` - Full compliance & documentation
+- `agentic natural research` - Heavy exploration & experimentation
 
 ### Complete Command List
 
@@ -160,39 +161,39 @@ Simple 0-100 scale with clear thresholds:
 
 ### Quick Prototype
 ```
-"Use agentic workflow for prototype optimized for speed"
+"Use agentic natural for prototype optimized for speed"
 ```
 Result: Minimal process, focus on working code, skip extensive docs
 
 ### Production API
 ```
-"Use agentic workflow for web API with monitoring and automated testing using TDD"
+"Use agentic natural for web API with monitoring and automated testing using TDD"
 ```
 Result: Full test suite, monitoring setup, API documentation, TDD cycle
 
 ### Hackathon Project
 ```
-"Use agentic workflow for hackathon in 4 hours by pair programming"
+"Use agentic natural for hackathon in 4 hours by pair programming"
 ```
 Result: Extreme time boxing, pair coordination, essentials only
 
 ### Enterprise Microservice
 ```
-"Use agentic workflow for microservice with checkpoints and security scanning 
+"Use agentic natural for microservice with checkpoints and security scanning 
 using DDD optimized for maintainability by distributed team"
 ```
 Result: Domain modeling, security checks, async handoffs, extensive docs
 
 ### ML Pipeline
 ```
-"Use agentic workflow for ML model with metrics and monitoring 
+"Use agentic natural for ML model with metrics and monitoring 
 using Python optimized for performance"
 ```
 Result: Model metrics tracking, performance benchmarks, Python patterns
 
 ### Learning Project
 ```
-"Use agentic workflow for web API using TypeScript in learning mode"
+"Use agentic natural for web API using TypeScript in learning mode"
 ```
 Result: Extra explanations, learning checkpoints, best practice notes
 
@@ -202,19 +203,19 @@ Result: Extra explanations, learning checkpoints, best practice notes
 
 #### Web Development
 ```
-\"agentic workflow for web API\"
+\"agentic natural for web API\"
 ```
 Adds: Route planning, error handling middleware, input validation, API documentation structure
 
 #### Data Engineering  
 ```
-\"agentic workflow for data pipeline\"
+\"agentic natural for data pipeline\"
 ```
 Adds: Data validation steps, transformation stages, quality checks, monitoring alerts
 
 #### Machine Learning
 ```
-\"agentic workflow for ML model\"
+\"agentic natural for ML model\"
 ```
 Adds: Data preparation, feature engineering, model training, evaluation metrics, deployment considerations
 
@@ -222,13 +223,13 @@ Adds: Data preparation, feature engineering, model training, evaluation metrics,
 
 #### Reliability Features
 ```
-\"agentic workflow with checkpoints and rollback\"
+\"agentic natural with checkpoints and rollback\"
 ```
 Adds: Save state after each major step, ability to revert to any checkpoint, recovery procedures
 
 #### Observability Features
 ```
-\"agentic workflow with metrics and monitoring\"
+\"agentic natural with metrics and monitoring\"
 ```
 Adds: Performance measurements, quality metrics tracking, dashboard setup, alert definitions
 
@@ -243,7 +244,7 @@ See [Monitoring Example](example-monitoring.md) for complete details.
 
 #### Quality Features
 ```
-\"agentic workflow with automated testing and security scanning\"
+\"agentic natural with automated testing and security scanning\"
 ```
 Adds: Test generation, test running steps, security vulnerability checks, code quality scans
 
@@ -251,13 +252,13 @@ Adds: Test generation, test running steps, security vulnerability checks, code q
 
 #### Development Methodologies
 ```
-\"agentic workflow using TDD\"
+\"agentic natural using TDD\"
 ```
 Restructures: Write test → See it fail → Implement → See it pass → Refactor cycle
 
 #### Architecture Patterns
 ```
-\"agentic workflow using microservices\"
+\"agentic natural using microservices\"
 ```
 Adds: Service boundary definition, API contracts, service communication, distributed tracing
 
@@ -265,13 +266,13 @@ Adds: Service boundary definition, API contracts, service communication, distrib
 
 #### Time Constraints
 ```
-\"agentic workflow in 2 hours\"
+\"agentic natural in 2 hours\"
 ```
 Optimizes: Removes non-essential steps, focuses on core functionality, allows technical debt
 
 #### Development Modes
 ```
-\"agentic workflow in exploratory mode\"
+\"agentic natural in exploratory mode\"
 ```
 Adds: Research phases, multiple approach evaluation, extensive experimentation time
 
@@ -279,13 +280,13 @@ Adds: Research phases, multiple approach evaluation, extensive experimentation t
 
 #### Performance Goals
 ```
-\"agentic workflow optimized for speed\"
+\"agentic natural optimized for speed\"
 ```
 Prioritizes: Rapid delivery, minimal process, essential features only, defer nice-to-haves
 
 #### Quality Goals
 ```
-\"agentic workflow optimized for maintainability\"
+\"agentic natural optimized for maintainability\"
 ```
 Emphasizes: Clear architecture, comprehensive documentation, refactoring time, code reviews
 
@@ -293,18 +294,18 @@ Emphasizes: Clear architecture, comprehensive documentation, refactoring time, c
 
 #### Startup MVP
 ```
-\"agentic workflow for MVP with metrics optimized for speed by small team\"
+\"agentic natural for MVP with metrics optimized for speed by small team\"
 ```
 Result: Lean process, core metrics only, rapid iteration, minimal handoffs
 
 #### Enterprise System
 ```
-\"agentic workflow for production microservice with checkpoints and monitoring 
+\"agentic natural for production microservice with checkpoints and monitoring 
 using DDD optimized for maintainability by distributed team\"
 ```
 Result: Full architectural design, extensive monitoring, async collaboration, detailed documentation
 
-## Why Unified?
+## Why Natural?
 
 1. **No Decision Paralysis** - One workflow for everything
 2. **Instant Onboarding** - New team members understand in minutes
@@ -316,17 +317,17 @@ Result: Full architectural design, extensive monitoring, async collaboration, de
 
 ## Migration from Other Variants
 
-Currently using another variant? Unified can replace:
-- **devdocs-zen** → Use basic unified workflow
-- **devdocs-standard** → Use unified with team enhancement
-- **devdocs-advanced** → Use unified with all enhancements
-- **devdocs-zen-py** → Use unified with ML-specific prompts
+Currently using another variant? Natural can replace:
+- **devdocs-zen** → Use basic natural workflow
+- **devdocs-standard** → Use natural with team enhancement
+- **devdocs-advanced** → Use natural with all enhancements
+- **devdocs-zen-py** → Use natural with ML-specific prompts
 
 ## Interactive Mode
 
 If you're not sure what modifiers to use, just say:
 ```
-\"agentic workflow\"
+\"agentic natural\"
 ```
 
 The AI will guide you:
@@ -346,7 +347,7 @@ I'll help you set up the right workflow. Let me ask a few quick questions:
   > Getting it right, not just fast
 
 Based on your answers, I recommend:
-\"agentic workflow for web API with automated testing by small team optimized for quality\"
+\"agentic natural for web API with automated testing by small team optimized for quality\"
 ```
 
 ## Smart Defaults
@@ -371,10 +372,10 @@ The system intelligently adapts based on context:
 ## FAQ
 
 **Q: What if I need a feature not listed?**
-A: Just describe what you need in natural language. The AI will adapt the workflow. For example: \"agentic workflow with database migrations\" will add migration steps.
+A: Just describe what you need in natural language. The AI will adapt the workflow. For example: \"agentic natural with database migrations\" will add migration steps.
 
 **Q: Can I combine multiple project types?**
-A: Yes! Try: \"agentic workflow for web API and CLI tool\" to get a workflow that handles both.
+A: Yes! Try: \"agentic natural for web API and CLI tool\" to get a workflow that handles both.
 
 **Q: What's the difference between the presets?**
 A: 
@@ -385,7 +386,7 @@ A:
 - **research**: Heavy on exploration, experimentation, learning
 
 **Q: Do I need to specify everything?**
-A: No! Start simple and the system will ask for clarification if needed. \"agentic workflow\" alone works fine.
+A: No! Start simple and the system will ask for clarification if needed. \"agentic natural\" alone works fine.
 
 **Q: Can I use multiple \"with\" statements?**
 A: Yes! Chain them: \"with checkpoints and metrics and visual progress\"
@@ -397,7 +398,7 @@ A: Any format works: \"in 2 hours\", \"by Friday\", \"in sprint 3\", \"ASAP\"
 A: The AI will flag conflicts and suggest alternatives. For example, \"optimized for quality in 30 minutes\" will prompt for priority clarification.
 
 **Q: Can I save my favorite command combinations?**
-A: Yes! Create an alias: \"agentic workflow my-stack\" where my-stack = \"for web API with monitoring using TypeScript optimized for maintainability\"
+A: Yes! Create an alias: \"agentic natural my-stack\" where my-stack = \"for web API with monitoring using TypeScript optimized for maintainability\"
 
 **Q: Is the order of modifiers important?**
 A: No, the system understands any order. These are equivalent:

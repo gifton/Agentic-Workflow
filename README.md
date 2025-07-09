@@ -12,18 +12,18 @@ Agentic Workflow is a powerful framework for breaking down complex software deve
 
 ## 🎯 Which Implementation Should I Use?
 
-### 🆕 Recommended: Agentic Unified
+### 🆕 Recommended: Agentic Natural
 **The Future of Agentic Workflow!** One intelligent workflow that adapts to your needs through natural language.
 
 ```bash
 # Examples of the new natural language system:
-"agentic workflow express"                              # Ship in 2 hours
-"agentic workflow for web API with testing"             # Full test suite
-"agentic workflow for hackathon optimized for speed"    # Fast iteration
-"agentic workflow for production using microservices"   # Enterprise ready
+"agentic natural express"                              # Ship in 2 hours
+"agentic natural for web API with testing"             # Full test suite
+"agentic natural for hackathon optimized for speed"    # Fast iteration
+"agentic natural for production using microservices"   # Enterprise ready
 ```
 
-See `agentic-unified/` for documentation, examples, and quick reference.
+See `agentic-natural/` for documentation, examples, and quick reference.
 
 ### Classic Implementations
 ```
@@ -53,7 +53,7 @@ See `agentic-unified/` for documentation, examples, and quick reference.
 
 ### Quick Comparison
 
-| Feature | Unified (NEW) | Standard | Advanced | Zen | Zen-Python |
+| Feature | Natural (NEW) | Standard | Advanced | Zen | Zen-Python |
 |---------|---------------|----------|----------|-----|------------|
 | **Complexity** | Adaptive | Low-Medium | Very High | Minimal | Medium |
 | **Setup Time** | 30 seconds | 5-10 min | 30+ min | 1 min | 10 min |
@@ -63,7 +63,7 @@ See `agentic-unified/` for documentation, examples, and quick reference.
 
 ### Detailed Feature Comparison
 
-| Feature | Unified | Standard | Advanced | Balanced | Zen | Zen-Python |
+| Feature | Natural | Standard | Advanced | Balanced | Zen | Zen-Python |
 |---------|---------|----------|----------|----------|-----|------------|
 | **Confidence System** | Simple 0-100 | 3-tier (H/M/L) | Multi-dimensional | 3-tier weighted | Single progress | ML metrics |
 | **Checkpoints** | On-demand | Simple JSON | Full serialization | ❌ | Basic | ML checkpoints |
@@ -84,7 +84,7 @@ Features
    │                 Standard ●─────┐       │
    │                 (Sweet spot)   │       │
    │                                │       │
-   │         Unified ◆              │       │
+   │         Natural ◆              │       │
    │         (Adaptive)             │       │
    │                                │       │
    │    Zen-Python ●                │       │
@@ -102,7 +102,7 @@ Features
 
 ## 🌟 Implementation Profiles
 
-### 🎯 Unified (agentic-unified) - The Future
+### 🎯 Natural (agentic-natural) - The Future
 **Philosophy**: "One workflow that adapts to you"
 - ✅ Single template for all projects
 - ✅ Progressive enhancement via natural language
@@ -272,17 +272,17 @@ Monitoring: Real-time events
 
 ### Quick Start Guide
 
-#### 🆕 Option 1: Unified Setup (Recommended)
+#### 🆕 Option 1: Natural Setup (Recommended)
 ```bash
 # 1. Copy the single template to your project
-cp agentic-unified/workflow.md your-project/
+cp agentic-natural/workflow.md your-project/
 
 # 2. Tell your AI assistant:
-"Use the agentic workflow to implement [your task]"
+"Use agentic natural to implement [your task]"
 
 # 3. Add features as needed:
-"Use the agentic workflow with checkpoints"
-"Use the agentic workflow for team collaboration"
+"Use agentic natural with checkpoints"
+"Use agentic natural for team collaboration"
 ```
 
 #### Option 2: Minimal Setup (devdocs-zen)
@@ -338,14 +338,14 @@ cp devdocs-zen-py/example_task_context.md your-project/
 - Has comprehensive tests
 - Includes performance benchmarks
 
-Use the agentic workflow approach."
+Use the agentic natural approach."
 ```
 
 ## 📚 Documentation Structure
 
 ```
 Agentic Workflow/
-├── agentic-unified/       # 🆕 Unified - One adaptive workflow
+├── agentic-natural/       # 🆕 Natural - One adaptive workflow
 │   ├── workflow.md       # The single smart template
 │   ├── README.md         # How it works
 │   ├── example-basic.md  # Simple example
@@ -377,19 +377,19 @@ Agentic Workflow/
 
 ## 🚦 Quick Recommendations
 
-- **New to Agentic?** → Use `agentic-unified` (one workflow for everything)
-- **Just Starting?** → Use `agentic-unified` or `devdocs-zen`
-- **Real Project?** → Use `agentic-unified` or `devdocs-standard`
-- **Complex Systems?** → Use `agentic-unified` with enhancements or `devdocs-advanced`
+- **New to Agentic?** → Use `agentic-natural` (one workflow for everything)
+- **Just Starting?** → Use `agentic-natural` or `devdocs-zen`
+- **Real Project?** → Use `agentic-natural` or `devdocs-standard`
+- **Complex Systems?** → Use `agentic-natural` with enhancements or `devdocs-advanced`
 - **Python/ML Work?** → Use `devdocs-zen-py` (specialized)
 
 ## ⚠️ Current Status
 
-- 🆕 **NEW**: agentic-unified - The future of Agentic Workflow
-- ✅ **Ready to Use**: agentic-unified, devdocs-standard, devdocs-advanced, devdocs-zen
+- 🆕 **NEW**: agentic-natural - The future of Agentic Workflow
+- ✅ **Ready to Use**: agentic-natural, devdocs-standard, devdocs-advanced, devdocs-zen
 - 🔶 **Specialized**: devdocs-zen-py (ML-specific)
 - ❌ **Not Implemented**: devdocs-balanced (concept only)
 
 ---
 
-**Ready to transform your development workflow?** Start with `agentic-unified` - one workflow that grows with you! 🚀
+**Ready to transform your development workflow?** Start with `agentic-natural` - one workflow that grows with you! 🚀

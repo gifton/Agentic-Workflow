@@ -1,6 +1,6 @@
 # Agentic Workflow - Example: ML Pipeline (with enhancements)
 
-*Using: "agentic workflow with checkpoints and metrics tracking"*
+*Using: "agentic natural with checkpoints and metrics tracking"*
 
 ## Task: Build ML pipeline for customer churn prediction
 

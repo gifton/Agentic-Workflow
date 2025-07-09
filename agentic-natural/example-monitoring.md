@@ -4,7 +4,7 @@ This example demonstrates how "with monitoring" adapts the workflow to include c
 
 ## Command Used
 ```
-agentic workflow for web API with monitoring and metrics optimized for reliability
+agentic natural for web API with monitoring and metrics optimized for reliability
 ```
 
 ## Task: Build User Management API

@@ -1,4 +1,4 @@
-# Agentic Unified - Examples Gallery
+# Agentic Natural - Examples Gallery
 
 Real-world examples showing how different commands adapt the workflow.
 
@@ -6,7 +6,7 @@ Real-world examples showing how different commands adapt the workflow.
 
 ### MVP in a Weekend
 ```
-agentic workflow for MVP with metrics in 2 days optimized for learning by solo developer
+agentic natural for MVP with metrics in 2 days optimized for learning by solo developer
 ```
 
 **Workflow adaptations:**
@@ -18,7 +18,7 @@ agentic workflow for MVP with metrics in 2 days optimized for learning by solo d
 
 ### Investor Demo
 ```
-agentic workflow for prototype with visual progress in 4 hours optimized for impact
+agentic natural for prototype with visual progress in 4 hours optimized for impact
 ```
 
 **Workflow adaptations:**
@@ -32,7 +32,7 @@ agentic workflow for prototype with visual progress in 4 hours optimized for imp
 
 ### Regulatory Compliance System
 ```
-agentic workflow for production system with security scanning and audit trails 
+agentic natural for production system with security scanning and audit trails 
 using DDD optimized for compliance by cross-functional team
 ```
 
@@ -45,7 +45,7 @@ using DDD optimized for compliance by cross-functional team
 
 ### Microservices Migration
 ```
-agentic workflow for microservice with checkpoints and rollback 
+agentic natural for microservice with checkpoints and rollback 
 using event-driven architecture optimized for reliability by distributed team
 ```
 
@@ -60,7 +60,7 @@ using event-driven architecture optimized for reliability by distributed team
 
 ### Tutorial Project
 ```
-agentic workflow for web API using TypeScript in learning mode 
+agentic natural for web API using TypeScript in learning mode 
 optimized for understanding
 ```
 
@@ -73,7 +73,7 @@ optimized for understanding
 
 ### Hackathon Learning
 ```
-agentic workflow for ML model in 6 hours in exploratory mode 
+agentic natural for ML model in 6 hours in exploratory mode 
 by pair programming optimized for experimentation
 ```
 
@@ -88,7 +88,7 @@ by pair programming optimized for experimentation
 
 ### Real-time Dashboard
 ```
-agentic workflow for analytics dashboard with monitoring and visual progress 
+agentic natural for analytics dashboard with monitoring and visual progress 
 using React optimized for performance
 ```
 
@@ -103,7 +103,7 @@ using React optimized for performance
 
 ### Production API with Full Monitoring
 ```
-agentic workflow for web API with monitoring and metrics 
+agentic natural for web API with monitoring and metrics 
 optimized for reliability
 ```
 
@@ -120,7 +120,7 @@ optimized for reliability
 
 ### ETL Pipeline
 ```
-agentic workflow for data pipeline with checkpoints and metrics 
+agentic natural for data pipeline with checkpoints and metrics 
 optimized for reliability by small team
 ```
 
@@ -135,7 +135,7 @@ optimized for reliability by small team
 
 ### CI/CD Pipeline
 ```
-agentic workflow for deployment pipeline with automated testing and rollback 
+agentic natural for deployment pipeline with automated testing and rollback 
 using GitOps optimized for safety
 ```
 
@@ -148,7 +148,7 @@ using GitOps optimized for safety
 
 ### Kubernetes Migration
 ```
-agentic workflow for containerization with monitoring in careful mode 
+agentic natural for containerization with monitoring in careful mode 
 optimized for zero downtime by platform team
 ```
 
@@ -163,7 +163,7 @@ optimized for zero downtime by platform team
 
 ### Onboarding Project
 ```
-agentic workflow for feature in teaching mode by pair programming 
+agentic natural for feature in teaching mode by pair programming 
 optimized for knowledge transfer
 ```
 
@@ -176,7 +176,7 @@ optimized for knowledge transfer
 
 ### Remote Team Sprint
 ```
-agentic workflow for user stories in 1 week by distributed team 
+agentic natural for user stories in 1 week by distributed team 
 with daily checkpoints optimized for coordination
 ```
 
@@ -191,7 +191,7 @@ with daily checkpoints optimized for coordination
 
 ### Performance Critical
 ```
-agentic workflow for API endpoint with performance testing and metrics 
+agentic natural for API endpoint with performance testing and metrics 
 using Rust optimized for speed
 ```
 
@@ -204,7 +204,7 @@ using Rust optimized for speed
 
 ### Cost Optimization
 ```
-agentic workflow for serverless functions with cost monitoring 
+agentic natural for serverless functions with cost monitoring 
 optimized for cost by small team
 ```
 
@@ -219,7 +219,7 @@ optimized for cost by small team
 
 ### Security Audit Fixes
 ```
-agentic workflow for security patches with security scanning and testing 
+agentic natural for security patches with security scanning and testing 
 in careful mode optimized for safety
 ```
 
@@ -232,7 +232,7 @@ in careful mode optimized for safety
 
 ### Authentication System
 ```
-agentic workflow for auth system with security scanning and audit trails 
+agentic natural for auth system with security scanning and audit trails 
 using OIDC optimized for security by senior developers
 ```
 
@@ -257,7 +257,7 @@ Start with the basic pattern:
 
 Then combine naturally:
 ```
-agentic workflow for [your project] with [your features] 
+agentic natural for [your project] with [your features] 
 using [your approach] in [your timeframe] 
 optimized for [your goal] by [your team]
 ```
