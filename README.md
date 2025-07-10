@@ -10,6 +10,21 @@ Agentic Workflow is a powerful framework for breaking down complex software deve
 - **⚡ Specialist (Mercury)** - Implements with domain expertise and confidence tracking  
 - **✅ Evaluator (Apollo)** - Ensures quality with multi-dimensional assessment
 
+```
+┌─────────┐     ┌──────────┐     ┌──────────┐
+│  User   │ --> │  Atlas   │ --> │ Mercury  │
+└─────────┘     │(Planning)│     │ (Build)  │
+                └──────────┘     └──────────┘
+                      ↑                 │
+                      │                 ↓
+                ┌──────────┐     ┌──────────┐
+                │ Results  │ <-- │  Apollo  │
+                └──────────┘     │(Evaluate)│
+                                └──────────┘
+```
+
+📊 **[See Detailed Visual Agent Interaction Diagrams →](docs/agent-interaction-diagrams.md)**
+
 ## 🎯 Which Implementation Should I Use?
 
 ### 🆕 Recommended: Agentic Natural

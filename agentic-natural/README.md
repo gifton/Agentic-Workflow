@@ -9,6 +9,7 @@
 - **[Basic Example](example-basic.md)** - Simple URL shortener
 - **[Enhanced Example](example-enhanced.md)** - ML pipeline with features
 - **[Monitoring Example](example-monitoring.md)** - Web API with full observability
+- **[Zen Example](example-zen.md)** - Complex system with zen-mcp tools
 
 ## What is Agentic Natural?
 
@@ -31,6 +32,7 @@ The workflow intelligently modifies itself based on your command:
 - **For team**: Adds handoff and communication sections
 - **Using TDD**: Restructures to test-first cycle
 - **In 2 hours**: Compresses to essential steps only
+- **With zen**: Integrates zen-mcp tools at critical points
 
 ### Content Adaptations  
 - **For web API**: Adds routes, error handling, API docs sections
@@ -38,6 +40,16 @@ The workflow intelligently modifies itself based on your command:
 - **With metrics**: Adds measurement points throughout
 - **Optimized for quality**: Expands review criteria
 - **In learning mode**: Adds explanations and resources
+
+### Zen-MCP Intelligence
+When you add "with zen", the workflow automatically uses:
+- **zen planner** - For complex task breakdown
+- **zen analyze** - For architecture and code analysis
+- **zen debug** - For troubleshooting and root cause analysis
+- **zen codereview** - For comprehensive code quality checks
+- **zen testgen** - For test suite generation
+- **zen consensus** - For validation and decision making
+- **zen thinkdeep** - For complex problem solving
 
 ## How It Works
 
@@ -82,6 +94,7 @@ agentic natural
 - `agentic natural professional` - Production-ready with all checks
 - `agentic natural enterprise` - Full compliance & documentation
 - `agentic natural research` - Heavy exploration & experimentation
+- `agentic natural zen` - Enhanced with intelligent zen-mcp tools
 
 ### Complete Command List
 

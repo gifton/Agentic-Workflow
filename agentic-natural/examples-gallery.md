@@ -243,6 +243,60 @@ using OIDC optimized for security by senior developers
 - Security review gates
 - Senior developer checkpoints
 
+## 🧠 Zen-MCP Enhanced Workflows
+
+### Complex Architecture Design
+```
+agentic natural for microservices architecture with zen planning 
+optimized for scalability by architect team
+```
+
+**Workflow adaptations:**
+- zen planner for systematic design breakdown
+- zen analyze for architecture assessment
+- zen consensus for design decisions
+- Multiple design alternatives explored
+- Expert-level architectural guidance
+
+### Debugging Production Issue
+```
+agentic natural for bug fix with zen debug in emergency mode 
+optimized for resolution speed
+```
+
+**Workflow adaptations:**
+- zen debug for root cause analysis
+- Systematic investigation steps
+- zen thinkdeep for complex issues
+- Hypothesis testing approach
+- Quick validation cycles
+
+### Code Quality Improvement
+```
+agentic natural for refactoring with zen review and testing 
+optimized for maintainability
+```
+
+**Workflow adaptations:**
+- zen codereview for comprehensive analysis
+- zen refactor for improvement identification
+- zen testgen for test coverage
+- Code smell detection
+- Modernization recommendations
+
+### Performance Optimization
+```
+agentic natural for performance tuning with zen analysis 
+using profiling optimized for latency
+```
+
+**Workflow adaptations:**
+- zen analyze with performance focus
+- Bottleneck identification
+- zen thinkdeep for optimization strategies
+- Benchmark-driven development
+- Performance regression prevention
+
 ---
 
 ## 🎨 Creating Your Own

@@ -64,6 +64,15 @@ The `for` modifier tells the system what type of project you're creating. This f
 
 The `with` modifier adds specific features to your workflow. Chain multiple features with "and".
 
+**Zen-MCP Integration**
+- `with zen` → Enables intelligent zen-mcp tool usage throughout
+- `with zen debug` → Uses zen debug tool for troubleshooting
+- `with zen analysis` → Deep code analysis with zen analyze
+- `with zen planning` → Uses zen planner for complex tasks
+- `with zen review` → Comprehensive code review with zen
+- `with zen testing` → Test generation using zen testgen
+- `with zen consensus` → Multi-model validation for decisions
+
 **Quality & Testing**
 - `with testing` → Unit tests, integration tests, coverage
 - `with TDD` → Test-first development cycle
