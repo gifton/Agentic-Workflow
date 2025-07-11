@@ -25,6 +25,18 @@ Agentic Workflow is a powerful framework for breaking down complex software deve
 
 📊 **[See Detailed Visual Agent Interaction Diagrams →](docs/agent-interaction-diagrams.md)**
 
+## 🚀 Quick Start
+
+**⚡ [Setup Guide](SETUP.md)** - Essential for large projects! Ensures AI recognizes the workflow.
+
+```bash
+# 1. Copy workflow to your project
+cp agentic-natural/workflow.md your-project/
+
+# 2. Tell your AI
+"Use the agentic natural workflow in workflow.md"
+```
+
 ## 🎯 Which Implementation Should I Use?
 
 ### 🆕 Recommended: Agentic Natural

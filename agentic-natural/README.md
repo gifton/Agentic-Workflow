@@ -58,10 +58,20 @@ When you add "with zen", the workflow automatically uses:
 cp agentic-natural/workflow.md your-project/
 ```
 
-### 2. Fill It Out
+### 2. Set Up Recognition (Important for Large Projects!)
+Add to your project's `CLAUDE.md`:
+```markdown
+## Agentic Workflow
+This project uses Agentic Natural. Check workflow.md for structured tasks.
+Commands: "agentic natural [for ...] [with ...]"
+```
+
+See the full **[Setup Guide](../SETUP.md)** for more options.
+
+### 3. Fill It Out
 Replace the placeholders with your actual task details.
 
-### 3. Use It
+### 4. Use It
 Tell your AI assistant: "Follow the agentic natural in workflow.md"
 
 That's it! No configuration files, no complex setup.

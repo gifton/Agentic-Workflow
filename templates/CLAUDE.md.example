@@ -1,0 +1,53 @@
+# Project Assistant Instructions
+
+## Agentic Workflow Integration
+
+This project uses the **Agentic Natural** workflow system for complex development tasks.
+
+### Workflow Location
+- Primary: `./workflow.md` 
+- Fallback: `./.agentic/workflow.md`
+
+### How to Use
+1. When I say "agentic natural" or mention complex tasks, check for workflow.md
+2. Follow the multi-agent structured approach (Orchestrator → Specialist → Evaluator)
+3. Track confidence on a 0-100 scale throughout the work
+4. Update the workflow file inline with progress
+
+### Natural Language Commands
+The workflow adapts based on natural language modifiers:
+
+```
+agentic natural
+  [for {project-type}]     # What we're building
+  [with {features}]        # Capabilities needed  
+  [using {approach}]       # Methodology or tech
+  [in {mode/time}]         # Time constraints
+  [optimized for {goal}]   # Primary objective
+  [by {team-structure}]    # Who's working
+```
+
+### Common Examples
+- `agentic natural` - Interactive mode
+- `agentic natural express` - Ship in <2 hours
+- `agentic natural for web API with testing` - API with test suite
+- `agentic natural for feature optimized for quality` - Quality-first approach
+
+### Confidence Thresholds
+- 80-100: Ready to ship ✅
+- 60-79: Minor fixes needed ⚠️  
+- 0-59: Major work required 🔄
+
+### Important Notes
+- Always read workflow.md before starting complex tasks
+- Update confidence scores as work progresses
+- The workflow adapts based on the command modifiers
+- One workflow file handles all complexity levels
+
+## Project-Specific Instructions
+
+[Add your project-specific instructions here]
+
+## Technical Context
+
+[Add your technical stack, conventions, etc. here]
